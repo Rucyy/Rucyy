@@ -11,7 +11,7 @@
 #### Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rucyy&theme=2077)
 
-### PGP Public Key
+#### PGP Public Key
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
