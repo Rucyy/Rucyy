@@ -1,5 +1,3 @@
-[![twitter](https://img.shields.io/twitter/follow/1919ID?style=social)](https://twitter.com/1919ID)
-
 #### Discord
 <a href="https://discord.com/users/1257975585318375445"  align="left">
     <img src="https://lanyard.cnrad.dev/api/1257975585318375445?&bg=000000">
