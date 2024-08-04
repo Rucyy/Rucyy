@@ -1,6 +1,6 @@
 #### Discord
-<a href="https://discord.com/users/1257975585318375445"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/1257975585318375445?&bg=000000">
+<a href="https://discord.com/users/1257975585318375445">
+    <img height=200 src="https://lanyard.cnrad.dev/api/1257975585318375445">
   </a>
 
 #### Anime List
